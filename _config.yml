@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: channelmatter # the main title
 
-tagline: Optomistic futurist # it will display as the subtitle
+tagline: commit now before i forget # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog
